@@ -1,4 +1,4 @@
-//// If/Else
+package Control_Flow//// If/Else
 //
 //1. Check if a person is eligible for a senior citizen discount (age 60+).
 

@@ -4,7 +4,7 @@ import java.util.* // Import for the Scanner class
 fun main(args: Array<String>) {
     println()
     println()
-    runStudentApp() // Calls the main student application logic
+    runStudentApp() // Calls the oops.Basics_of_Kotlin.Basics_of_Kotlin.Basics_of_Kotlin.Basics_of_Kotlin.Basics_of_Kotlin.Control_Flow.Control_Flow.Control_Flow.Control_Flow.Control_Flow.Control_Flow.Control_Flow.Loops.oops.main student application logic
     println()
     println("Printing inline function (squareNumber) in Q 10: ${squareNumber(22)}")
     print("Printing Lambda function (doubleNumber) on Q11 : ")

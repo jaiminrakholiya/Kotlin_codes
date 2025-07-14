@@ -16,7 +16,7 @@ class CarHardCoded { // Blue Print
 
 fun main1() {
     println("------ Hard Coded Example ------")
-    val car = CarHardCoded()  // 🔹 Object of CarHardCoded class is created here
+    val car = CarHardCoded()  // 🔹 Object of oops.CarHardCoded class is created here
     car.drive()
     car.stop()
 }
@@ -36,7 +36,7 @@ class CarPrimary(var speed: Int, var color: String) { // Blue Print
 
 fun main2() {
     println("------ Primary Constructor Example ------")
-    val car = CarPrimary(120, "Blue")  // 🔹 Object of CarPrimary class is created here using primary constructor
+    val car = CarPrimary(120, "Blue")  // 🔹 Object of oops.CarPrimary class is created here using primary constructor
     car.drive()
     car.stop()
 }
@@ -65,13 +65,13 @@ class CarSecondary() { // Blue Print
 
 fun main3() {
     println("------ Secondary Constructor Example ------")
-    val car = CarSecondary(150, "Black")  // 🔹 Object of CarSecondary class is created here using secondary constructor
+    val car = CarSecondary(150, "Black")  // 🔹 Object of oops.CarSecondary class is created here using secondary constructor
     car.drive()
     car.stop()
 }
 
 fun main() {
-    main1() // Calls the function where CarHardCoded object is created
-    main2() // Calls the function where CarPrimary object is created
-    main3() // Calls the function where CarSecondary object is created
+    main1() // Calls the function where oops.CarHardCoded object is created
+    main2() // Calls the function where oops.CarPrimary object is created
+    main3() // Calls the function where oops.CarSecondary object is created
 }

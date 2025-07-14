@@ -1,3 +1,5 @@
+package Basics_of_Kotlin
+
 fun main() {
     // Integer types
     val byteVal: Byte = 10           // Byte: 8-bit signed integer

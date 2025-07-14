@@ -1,3 +1,5 @@
+package Loops
+
 import java.util.Scanner
 import kotlin.random.Random
 

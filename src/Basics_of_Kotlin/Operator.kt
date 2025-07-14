@@ -1,3 +1,5 @@
+package Basics_of_Kotlin
+
 fun main() {
     // --------- Arithmetic operations ---------
     val a = 10

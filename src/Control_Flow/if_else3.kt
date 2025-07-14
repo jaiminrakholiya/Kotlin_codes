@@ -1,4 +1,4 @@
-//3. Compare two numbers and print which is bigger.
+package Control_Flow//3. Compare two numbers and print which is bigger.
 
 fun main() {
     val number1 = 25

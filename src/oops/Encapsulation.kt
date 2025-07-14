@@ -1,4 +1,4 @@
-// ==== Encapsulation Example ====
+package oops// ==== Encapsulation Example ====
 
 class BankAccount {
 
@@ -32,7 +32,7 @@ class BankAccount {
 }
 
 fun main() {
-    val account = BankAccount() // Create a new BankAccount object
+    val account = BankAccount() // Create a new oops.BankAccount object
 
     account.deposit(amount = 500)     // Add 500 to balance
     account.withdraw(amount = 200)    // Withdraw 200 from balance

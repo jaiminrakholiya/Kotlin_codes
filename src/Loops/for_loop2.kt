@@ -1,4 +1,4 @@
-//2. Calculate the sum of numbers from 1 to 10.
+package Loops//2. Calculate the sum of numbers from 1 to 10.
 
 fun main() {
     var sum = 0
