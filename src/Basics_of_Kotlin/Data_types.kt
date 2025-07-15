@@ -24,7 +24,7 @@ fun main() {
     val separator: Char = ','        // Char: a single character
 
     // String type
-    val message: String = "Hello, world!"  // String: a sequence of characters
+    val message: String = "Hello, kotlin!"  // String: a sequence of characters
 
     // Printing all the values
     println("Byte: $byteVal")
